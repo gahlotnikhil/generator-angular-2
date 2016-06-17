@@ -9,7 +9,7 @@ module.exports = yeoman.Base.extend({
   prompting: function () {
     // Have Yeoman greet the user.
     this.log(yosay(
-      'Hey! Welcome to the pioneering ' + chalk.red('generator-ng-2-generator') + ' generator!'
+      'Hey! Welcome to the pioneering ' + chalk.red('generator-angular-2') + ' generator!'
     ));
 
     var prompts = [{
@@ -53,6 +53,8 @@ module.exports = yeoman.Base.extend({
     this.template('systemjs.config.js', this.projname + '/' + 'systemjs.config.js');
     
     this.template('README.md', this.projname + '/' + 'README.md');
+
+    this.template('client/html/component.html', this.projname + '/' + 'client/html/component.html');
   },
 
   install: function () {

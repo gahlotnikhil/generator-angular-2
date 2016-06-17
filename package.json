@@ -1,5 +1,5 @@
 {
-  "name": "generator-ng-2-generator",
+  "name": "generator-angular-2",
   "version": "0.0.0",
   "description": "",
   "homepage": "",
@@ -43,7 +43,7 @@
       "mocha": true
     }
   },
-  "repository": "gahlotnikhil/generator-ng-2-generator",
+  "repository": "gahlotnikhil/generator-angular-2",
   "scripts": {
     "prepublish": "gulp prepublish",
     "test": "gulp"

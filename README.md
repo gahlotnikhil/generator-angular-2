@@ -1,13 +1,13 @@
-# generator-ng-2-generator [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
+# generator-angular-2 [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
 > 
 
 ## Installation
 
-First, install [Yeoman](http://yeoman.io) and generator-ng-2-generator using [npm](https://www.npmjs.com/) (we assume you have pre-installed [node.js](https://nodejs.org/)).
+First, install [Yeoman](http://yeoman.io) and generator-angular-2 using [npm](https://www.npmjs.com/) (we assume you have pre-installed [node.js](https://nodejs.org/)).
 
 ```bash
 npm install -g yo
-npm install -g generator-ng-2-generator
+npm install -g generator-angular-2
 ```
 
 Then generate your new project:
@@ -28,9 +28,9 @@ yo ng-2-generator
 Apache-2.0 © [gahlotnikhil]()
 
 
-[npm-image]: https://badge.fury.io/js/generator-ng-2-generator.svg
-[npm-url]: https://npmjs.org/package/generator-ng-2-generator
-[travis-image]: https://travis-ci.org/gahlotnikhil/generator-ng-2-generator.svg?branch=master
-[travis-url]: https://travis-ci.org/gahlotnikhil/generator-ng-2-generator
-[daviddm-image]: https://david-dm.org/gahlotnikhil/generator-ng-2-generator.svg?theme=shields.io
-[daviddm-url]: https://david-dm.org/gahlotnikhil/generator-ng-2-generator
+[npm-image]: https://badge.fury.io/js/generator-angular-2.svg
+[npm-url]: https://npmjs.org/package/generator-angular-2
+[travis-image]: https://travis-ci.org/gahlotnikhil/generator-angular-2.svg?branch=master
+[travis-url]: https://travis-ci.org/gahlotnikhil/generator-angular-2
+[daviddm-image]: https://david-dm.org/gahlotnikhil/generator-angular-2.svg?theme=shields.io
+[daviddm-url]: https://david-dm.org/gahlotnikhil/generator-angular-2
