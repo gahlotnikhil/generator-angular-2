@@ -13,7 +13,7 @@ npm install -g generator-angular-2
 Then generate your new project:
 
 ```bash
-yo ng-2-generator
+yo angular-2
 ```
 
 ## Getting To Know Yeoman
