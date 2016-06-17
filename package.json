@@ -1,7 +1,7 @@
 {
   "name": "generator-angular-2",
-  "version": "0.0.0",
-  "description": "",
+  "version": "0.0.1",
+  "description": "Yeoman generator to kick start Angular 2.0 project.",
   "homepage": "",
   "author": {
     "name": "gahlotnikhil",
