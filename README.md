@@ -15,6 +15,13 @@ Then generate your new project:
 ```bash
 yo angular-2
 ```
+Go to the newly created project and use following to run the application:
+```bash
+#Build Project
+npm run build 
+#Run Application.
+npm run start
+```
 
 ## Getting To Know Yeoman
 
